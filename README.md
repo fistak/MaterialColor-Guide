@@ -4,19 +4,19 @@
 
 As it's hard to differentiate between, for example abyssalite and granite tile or gold amalgam and wolframite thermal regulator, I've decided to create a modification that changes color of buildings and tiles depending on material they are made of.
 
-[Thermo regulators example](http://imgur.com/a/JzNA6)
+![Thermo regulators example](http://imgur.com/a/JzNA6)
 
-[Stone sculptures example](http://imgur.com/a/moIXA)
+![Stone sculptures example](http://imgur.com/a/moIXA)
 
 ### Mesh, gas permeable tiles and tile blueprints
 
 Mesh tiles, gas permeable tiles and tile blueprints (tiles designated for construction)  are special. Instead of showing a color of material they are made of they show a color of gas inside them.
 
-[Insulated tiles and mesh tiles example](http://imgur.com/a/Fhnc4)
+![Insulated tiles and mesh tiles example](http://imgur.com/a/Fhnc4)
 
-[Mesh tiles with oxygen overlay enabled](http://imgur.com/a/z5ivh)
+![Mesh tiles with oxygen overlay enabled](http://imgur.com/a/z5ivh)
 
-[Tile blueprints example](http://imgur.com/a/7hUPn)
+![Tile blueprints example](http://imgur.com/a/7hUPn)
 
 ## Tested on versions:
 
@@ -57,8 +57,8 @@ In case you want to get rid of this mod completely. Beware, mod configuration fi
 
 ## More examples
 
-[Geyser blocked off with abyssalite](http://imgur.com/a/kgeO9)
-[Example room (with outer walls of abyssalite)](http://imgur.com/a/2VBA6)
+![Geyser blocked off with abyssalite](http://imgur.com/a/kgeO9)
+![Example room (with outer walls of abyssalite)](http://imgur.com/a/2VBA6)
 
 ## Warranty
 
@@ -74,18 +74,18 @@ As there are a lot of not implemented resources in the game I didn't bother to g
 
 ### Configurator
 
-[Configurator](http://imgur.com/a/1aBlQ)
+![Configurator](http://imgur.com/a/1aBlQ)
 
 - `Show missing type color offsets` - If enabled and missing type color offset is requested resulting structure will be purple instead of white for easy identification. If debug log is enabled a name of missing color offset will be visible in game (lower left corner).
 - `Show missing element color infos` - Same as above but for element color infos.
 - `Apply white to colorable objects` - Element color info won't be applied (the resulting building will be white/gray) for easier color offset management.
 - `Show detailed informations about errors` - In case of any mod related error in game informations in debug log (if enabled) are more detailed (a stack trace is added).
 
-[Example of missing color info with `Debug log` and `Show missing element color infos` enabled](http://imgur.com/a/aJVeP)
+![Example of missing color info with `Debug log` and `Show missing element color infos` enabled](http://imgur.com/a/aJVeP)
 
 ### Injector
 
-[Injector](http://imgur.com/a/uvOEG)
+![Injector](http://imgur.com/a/uvOEG)
 
 - `Enable debug log` - Shows any errors info in lower left corner of the screen (change requires repatch)
 - `Patch` - Creates backup of `OxygenNotIncluded_Data\Managed\Assembly-CSharp.dll` and injects mod into it.
