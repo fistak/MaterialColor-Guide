@@ -32,7 +32,13 @@ Probably will work on any update in between.
 
 ## Download
 
-https://mega.nz/#!FPYDSZyL!KrxYIbnz2HiG1hb2LukTa8F-J3_3iTlXtIt_GGLNFLY
+[mega.nz .7z archive](https://mega.nz/#!FPYDSZyL!KrxYIbnz2HiG1hb2LukTa8F-J3_3iTlXtIt_GGLNFLY)
+
+[VirusTotal scan result](https://www.virustotal.com/#/file/0409abe98566e4c646a030913bba8aa3a33ebb013a7ce686a176e59e529f6356/detection)
+
+[mega.nz .zip archive](https://mega.nz/#!MP4CXLQA!OmExl3oAkjs2Vc_uwnTOGMpsy1UCjCdtf4MpYAZ4U8c)
+
+[VirusTotal scan result](https://www.virustotal.com/#/file/a045ef71bd199bffd7935d41ba41322880084a9fd200e9e7aeee09850276bf25/detection)
 
 ## Installation
 
