@@ -1,6 +1,6 @@
-#A modification for Oxygen Not Included - MaterialColor 1.0
+# A modification for Oxygen Not Included - MaterialColor 1.0
 
-##Functionality
+## Functionality
 
 As it's hard to differentiate between, for example abyssalite and granite tile or gold amalgam and wolframite thermal regulator, I've decided to create a modification that changes color of buildings and tiles depending on material they are made of.
 
@@ -8,7 +8,7 @@ As it's hard to differentiate between, for example abyssalite and granite tile o
 
 [Stone sculptures example](http://imgur.com/a/moIXA)
 
-###Mesh, gas permeable tiles and tile blueprints
+### Mesh, gas permeable tiles and tile blueprints
 
 Mesh tiles, gas permeable tiles and tile blueprints (tiles designated for construction)  are special. Instead of showing a color of material they are made of they show a color of gas inside them.
 
@@ -18,7 +18,7 @@ Mesh tiles, gas permeable tiles and tile blueprints (tiles designated for constr
 
 [Tile blueprints example](http://imgur.com/a/7hUPn)
 
-##Tested on versions:
+## Tested on versions:
 
 - 221865
 - 221697
@@ -26,15 +26,15 @@ Mesh tiles, gas permeable tiles and tile blueprints (tiles designated for constr
 
 Probably will work on any update in between.
 
-##Requirements
+## Requirements
 
 - .NET Framework 4.5.2
 
-##Download
+## Download
 
 https://mega.nz/#!FPYDSZyL!KrxYIbnz2HiG1hb2LukTa8F-J3_3iTlXtIt_GGLNFLY
 
-##Installation
+## Installation
 
 Patching also creates backup of your `Assembly-CSharp.dll` that can be restored by pressing `Restore Backup` in `MaterialColor.Injector`.
 
@@ -42,29 +42,29 @@ Patching also creates backup of your `Assembly-CSharp.dll` that can be restored 
 2. Run `MaterialColor.Injector.exe`.
 3. Press `Patch`.
 
-##Disable
+## Disable
 
 If you want to temporarily disable this modification.
 
 1. Run `MaterialColor.Injector.exe`.
 2. Press `Restore Backup`.
 
-##Remove
+## Remove
 
 In case you want to get rid of this mod completely. Beware, mod configuration files will be removed too. Back them up if you did change them (see Advanced section).
 
 1. Run `UninstallMaterialColor.ps1` PowerShell script.
 
-##More examples
+## More examples
 
 [Geyser blocked off with abyssalite](http://imgur.com/a/kgeO9)
 [Example room (with outer walls of abyssalite)](http://imgur.com/a/2VBA6)
 
-##Warranty
+## Warranty
 
 I do not take any responsibility for broken saves, corrupted game or any other damage. Use this software at your own risk.
 
-##Advanced
+## Advanced
 
 For every building there is offset to get possibly closest color to gray/white. These offsets can be modified while the game is running. They are located in `MaterialColorConfig\TypeColorOffsets.json`. Game will reload them as soon as you save the file.
 
@@ -72,7 +72,7 @@ As every structure is now white we can paint them with color based on the elemen
 
 As there are a lot of not implemented resources in the game I didn't bother to give everyone of them a color. If material or structure doesn't exist in adequate json config file they will by default have a default color.
 
-###Configurator
+### Configurator
 
 [Configurator](http://imgur.com/a/1aBlQ)
 
@@ -83,7 +83,7 @@ As there are a lot of not implemented resources in the game I didn't bother to g
 
 [Example of missing color info with `Debug log` and `Show missing element color infos` enabled](http://imgur.com/a/aJVeP)
 
-###Injector
+### Injector
 
 [Injector](http://imgur.com/a/uvOEG)
 
