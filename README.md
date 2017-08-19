@@ -81,7 +81,7 @@ As there are a lot of not implemented resources in the game I didn't bother to g
 - `Apply white to colorable objects` - Element color info won't be applied (the resulting building will be white/gray) for easier color offset management.
 - `Show detailed informations about errors` - In case of any mod related error in game informations in debug log (if enabled) are more detailed (a stack trace is added).
 
-![Example of missing color info with `Debug log` and `Show missing element color infos` enabled](http://imgur.com/a/aJVeP)
+![Example of missing color info with `Debug log` and `Show missing element color infos` enabled](http://i.imgur.com/amgprSN.jpg)
 
 ### Injector
 
