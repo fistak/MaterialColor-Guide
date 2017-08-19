@@ -4,19 +4,19 @@
 
 As it's hard to differentiate between, for example abyssalite and granite tile or gold amalgam and wolframite thermal regulator, I've decided to create a modification that changes color of buildings and tiles depending on material they are made of.
 
-![Thermo regulators example](http://imgur.com/a/JzNA6)
+![Thermo regulators example](http://i.imgur.com/GgILI2c.jpg)
 
-![Stone sculptures example](http://imgur.com/a/moIXA)
+![Stone sculptures example](http://i.imgur.com/wTPGxRZ.jpg)
 
 ### Mesh, gas permeable tiles and tile blueprints
 
 Mesh tiles, gas permeable tiles and tile blueprints (tiles designated for construction)  are special. Instead of showing a color of material they are made of they show a color of gas inside them.
 
-![Insulated tiles and mesh tiles example](http://imgur.com/a/Fhnc4)
+![Insulated tiles and mesh tiles example](http://i.imgur.com/xDKFLn5.jpg)
 
-![Mesh tiles with oxygen overlay enabled](http://imgur.com/a/z5ivh)
+![Mesh tiles with oxygen overlay enabled](http://i.imgur.com/334CTvy.jpg)
 
-![Tile blueprints example](http://imgur.com/a/7hUPn)
+![Tile blueprints example](http://i.imgur.com/FgDNdPr.jpg)
 
 ## Tested on versions:
 
@@ -57,8 +57,8 @@ In case you want to get rid of this mod completely. Beware, mod configuration fi
 
 ## More examples
 
-![Geyser blocked off with abyssalite](http://imgur.com/a/kgeO9)
-![Example room (with outer walls of abyssalite)](http://imgur.com/a/2VBA6)
+![Geyser blocked off with abyssalite](http://i.imgur.com/FIOxRFa.jpg)
+![Example room (with outer walls of abyssalite)](http://i.imgur.com/5s9w4fF.jpg)
 
 ## Warranty
 
@@ -74,7 +74,7 @@ As there are a lot of not implemented resources in the game I didn't bother to g
 
 ### Configurator
 
-![Configurator](http://imgur.com/a/1aBlQ)
+![Configurator](http://i.imgur.com/j0cUUCg.jpg)
 
 - `Show missing type color offsets` - If enabled and missing type color offset is requested resulting structure will be purple instead of white for easy identification. If debug log is enabled a name of missing color offset will be visible in game (lower left corner).
 - `Show missing element color infos` - Same as above but for element color infos.
@@ -85,7 +85,7 @@ As there are a lot of not implemented resources in the game I didn't bother to g
 
 ### Injector
 
-![Injector](http://imgur.com/a/uvOEG)
+![Injector](http://i.imgur.com/IMzhDop.jpg)
 
 - `Enable debug log` - Shows any errors info in lower left corner of the screen (change requires repatch)
 - `Patch` - Creates backup of `OxygenNotIncluded_Data\Managed\Assembly-CSharp.dll` and injects mod into it.
